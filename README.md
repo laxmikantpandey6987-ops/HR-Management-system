@@ -24,9 +24,9 @@ This project allows basic employee management using browser local storage.
 - Bootstrap (for UI styling)
 
  #author
- laxmikant
- abhinav
- vaibhav
+ - laxmikant
+ - abhinav
+ - vaibhav
  
 ---
 
